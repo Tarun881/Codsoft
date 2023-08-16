@@ -13,7 +13,7 @@
 
   > 1. Open Terminal  
   > 2. git clone https://github.com/Tarun881/Codsoft.git  
-  > 3. Open Index.html file from **Live Server** or from **Browser**  
+  > 3. Open Task-1-landing-page.html file from **Live Server** or from **Browser**  
   
   [{ Landing Page Link }](https://github.com/Tarun881/Codsoft/tree/ff160cbf5f1b9c96b5862d6ba519c656cdfd535b/Task-1-landing-page)
   ***
@@ -22,7 +22,7 @@
 
   > 1. Open Terminal  
   > 2. git clone  https://github.com/Tarun881/Codsoft.git   
-  > 3. Open Index.html file from **Live Server** or from **Browser**   
+  > 3. Open Task-2-portfolio.html file from **Live Server** or from **Browser**   
 
 [{ Portfolio Page Link }](https://github.com/Tarun881/Codsoft/commit/96fbf3ecd5a4f0832e194616ac1620eec38390d5)
 ***
@@ -32,9 +32,9 @@
 
   > 1. Open Terminal  
   > 2. git clone  https://github.com/Tarun881/Codsoft.git   
-  > 3. Open Index.html file from **Live Server** or from **Browser**   
+  > 3. Open Task-3-Calculator.html file from **Live Server** or from **Browser**   
 
-[{ Portfolio Page Link }]()
+[{ Calculator Page Link }](https://github.com/Tarun881/Codsoft/commit/d66044d81df77694a70f39fa119afa35c5596307)
 ***
   
   
