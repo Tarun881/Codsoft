@@ -26,4 +26,15 @@
 
 [{ Portfolio Page Link }](https://github.com/Tarun881/Codsoft/commit/96fbf3ecd5a4f0832e194616ac1620eec38390d5)
 ***
+
+### Calculator Page -  
+
+
+  > 1. Open Terminal  
+  > 2. git clone  https://github.com/Tarun881/Codsoft.git   
+  > 3. Open Index.html file from **Live Server** or from **Browser**   
+
+[{ Portfolio Page Link }]()
+***
+  
   
